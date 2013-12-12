@@ -1,0 +1,17 @@
+﻿body {
+}
+
+#content
+{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+#holder
+{
+    margin: 10px;
+}
